@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# GrudePB - Grupo de Desenvolvedores da Paraíba
 
-You can use the [editor on GitHub](https://github.com/GrudePB/grudepb.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+O Grupo de Desenvolvedores da Paraíba é uma comunidade local de estudantes e
+profissionais de diversas áreas da Tecnologia da Informação, como estudantes e
+universitários, desenvolvedores e engenheiros de software, designers web e UX,
+além de empresários e empreendedores de várias regiões do Nordeste.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+O grupo nasceu da união de outras comunidades locais menores que tinham
+atividades e interesses semelhantes e buscavam uma forma de integrarem-se umas
+às outras. O GrudePB hoje é formado por mais de 350 pessoas que usam o
+[Slack](https://slack.com) como _ponto de encontro_. Suas principais atividades
+são os eventos e meetups das comunidades participantes.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GrudePB/grudepb.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Qualquer um pode participar do GrudePB - inclusive você. Basta solicitar
+solicitar um convite [aqui](http://grudepb.herokuapp.com).
