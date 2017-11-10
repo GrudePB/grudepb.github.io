@@ -1,4 +1,4 @@
-# GrudePB - Grupo de Desenvolvedores da Paraíba
+# Grupo de Desenvolvedores da Paraíba
 
 O Grupo de Desenvolvedores da Paraíba é uma comunidade local de estudantes e
 profissionais de diversas áreas da Tecnologia da Informação, como estudantes e
