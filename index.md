@@ -14,10 +14,8 @@ são os eventos e meetups das comunidades participantes.
 Qualquer um pode participar do GrudePB - inclusive você. Basta solicitar
 solicitar um convite [aqui](http://grudepb.herokuapp.com).
 
-
 ## Press Kit
 
 Você é um jornalista, ou está trabalhando em algo relacionado ao GrudePB? Listamos aqui alguns recursos que lhe podem ser úteis:
 
-* Logo e versões: <a href="https://github.com/GrudePB/grudepb.github.io/blob/master/media/grudepb-brand.svg" target="_blank">logo</a> | <a href="https://github.com/GrudePB/grudepb.github.io/blob/master/media/grudepb-brand-name.svg" target="_blank">logotipo</a> | <a href="https://github.com/GrudePB/grudepb.github.io/blob/master/media/grudepb-brand-extended.png" target="_blank">versão extendida</a>
-
+* Logo e versões: [logo](media/grudepb-brand.svg) | [logotipo](media/grudepb-brand-name.svg) | [versão extendida](media/grudepb-brand-extended.png)
