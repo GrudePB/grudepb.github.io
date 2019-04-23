@@ -15,17 +15,9 @@ Qualquer um pode participar do GrudePB - inclusive você. Basta solicitar
 solicitar um convite [aqui](http://grudepb.herokuapp.com).
 
 
-## Ajude a divulgar o GrudePB
+## Press Kit
 
-Se você faz parte do GrudePB, ajude a divulga-lo, usando a marca do grupo,
-falando sobre ele, e convidando as pessoas a participarem de forma ativa.
+Você é um jornalista, ou está trabalhando em algo relacionado ao GrudePB? Listamos aqui alguns recursos que lhe podem ser úteis:
 
-Logo: 
-![Exemplo de Logomarca do GrudePB](https://github.com/GrudePB/grudepb.github.io/blob/master/outros/logos/GrudePB%20-%20Full%2C%20com%20nome%20por%20extenso.png =300x)
+* Logo e versões: <a href="https://github.com/GrudePB/grudepb.github.io/blob/master/media/grudepb-brand.svg" target="_blank">logo</a> | <a href="https://github.com/GrudePB/grudepb.github.io/blob/master/media/grudepb-brand-name.svg" target="_blank">logotipo</a> | <a href="https://github.com/GrudePB/grudepb.github.io/blob/master/media/grudepb-brand-extended.png" target="_blank">versão extendida</a>
 
-Download da logo no formato .svg. O nome por extenso não é obrigatório, 
-e caso você queira inclui-ló, fique livre quanto
-a escolha da fonte. 
-
-* <a href="https://github.com/GrudePB/grudepb.github.io/blob/master//outros/logos/GrudePB%20-%20Full.svg">Full</a>
-* <a href="https://github.com/GrudePB/grudepb.github.io/blob/master//outros/logos/GrudePB%20-%20Solo.svg">Solo</a>
