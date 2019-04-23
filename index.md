@@ -18,4 +18,8 @@ solicitar um convite [aqui](http://grudepb.herokuapp.com).
 
 Você é um jornalista, ou está trabalhando em algo relacionado ao GrudePB? Listamos aqui alguns recursos que lhe podem ser úteis:
 
-* Logo e versões: [logo](media/grudepb-brand.svg) | [logotipo](media/grudepb-brand-name.svg) | [versão extendida](media/grudepb-brand-extended.png)
+**Logo e versões**
+
+- [logo](media/grudepb-brand.svg)
+- [logotipo](media/grudepb-brand-name.svg)
+- [versão extendida](media/grudepb-brand-extended.png)
