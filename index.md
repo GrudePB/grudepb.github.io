@@ -17,13 +17,14 @@ solicitar um convite [aqui](http://grudepb.herokuapp.com).
 
 ## Ajude a divulgar o GrudePB
 
-Se você faz parte do GrudePB, ajude-o divulgando-o, usando a marac do grupo,
+Se você faz parte do GrudePB, ajude a divulga-lo, usando a marca do grupo,
 falando sobre ele, e convidando as pessoas a participarem de forma ativa.
 
 Logo: 
-
 ![Exemplo de Logomarca do GrudePB](https://github.com/GrudePB/grudepb.github.io/outros/GrudePB - Full, com nome por extenso.png)
 
-Download da logo no formato .svg: 
+Download da logo no formato .svg. O nome por extenso não é obrigatório, 
+e caso você queira inclui-ló, fique livre quanto
+a escolha da fonte. 
 * <a href="https://github.com/GrudePB/grudepb.github.io/outros/GrudePB - Full.svg">Full</a>
 * <a href="https://github.com/GrudePB/grudepb.github.io/outros/GrudePB - Solo.svg">Solo</a>
