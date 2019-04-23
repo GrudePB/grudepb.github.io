@@ -22,10 +22,10 @@ falando sobre ele, e convidando as pessoas a participarem de forma ativa.
 
 Logo: 
 ![Exemplo de Logomarca do GrudePB](
-https://github.com/flauberjp/grudepb.github.io/blob/master/outros/logos/GrudePB%20-%20Full%2C%20com%20nome%20por%20extenso.png =300x)
+/outros/logos/GrudePB%20-%20Full%2C%20com%20nome%20por%20extenso.png =300x)
 
 Download da logo no formato .svg. O nome por extenso não é obrigatório, 
 e caso você queira inclui-ló, fique livre quanto
 a escolha da fonte. 
-* <a href="https://github.com/flauberjp/grudepb.github.io/blob/master/outros/logos/GrudePB%20-%20Full.svg">Full</a>
-* <a href="https://github.com/flauberjp/grudepb.github.io/blob/master/outros/logos/GrudePB%20-%20Solo.svg">Solo</a>
+* <a href="/outros/logos/GrudePB%20-%20Full.svg">Full</a>
+* <a href="/outros/logos/GrudePB%20-%20Solo.svg">Solo</a>
