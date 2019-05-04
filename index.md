@@ -7,7 +7,7 @@ além de empresários e empreendedores de várias regiões do Nordeste.
 
 O grupo nasceu da união de outras comunidades locais menores que tinham
 atividades e interesses semelhantes e buscavam uma forma de integrarem-se umas
-às outras. O GrudePB hoje é formado por mais de 700 pessoas que usam o
+às outras. O GrudePB hoje é formado por centenas de pessoas que usam o
 [Slack](https://slack.com) como _ponto de encontro_. Suas principais atividades
 são os eventos e meetups das comunidades participantes.
 
