@@ -22,4 +22,3 @@ Você é um jornalista, ou está trabalhando em algo relacionado ao GrudePB? Lis
 
 - [logo](media/grudepb-brand.svg)
 - [logotipo](media/grudepb-brand-name.svg)
-- [versão extendida](media/grudepb-brand-extended.png)
