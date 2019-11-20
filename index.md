@@ -14,6 +14,12 @@ são os eventos e meetups das comunidades participantes.
 Qualquer um pode participar do GrudePB - inclusive você. Basta solicitar
 solicitar um convite [aqui](http://grudepb.herokuapp.com).
 
+## GrudePB_Fest
+
+O **[GrudePB_Fest - Festa das Comunidades da Paraíba](http://bit.ly/grudepbfest)** é um grande meetup onde várias comunidades técnicas, muitas delas aqui do GrudePB,
+se reuniem para fazer aquela *festa*, cheia de palestras, workshops e muito network. 
+
+A primeira edição acontece dia 30 de novembro de 2019, no Unipê. Saiba mais neste [link](http://bit.ly/grudepbfest).
 
 ## Press Kit
 
